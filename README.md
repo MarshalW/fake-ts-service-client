@@ -1,5 +1,7 @@
 # fake-ts-service-client
 
+通过 npm 使用 [MarshalW/fake-ts-service](https://github.com/MarshalW/fake-ts-service)
+
 执行：
 
 ```bash
